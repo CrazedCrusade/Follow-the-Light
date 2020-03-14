@@ -6,3 +6,4 @@ Sets up an apparatus that keeps your plant in maximum sunlight by moving your pl
 
 ## Basic Design
 ![bsaic_carl](https://user-images.githubusercontent.com/59817284/76691707-099a4500-660b-11ea-95ea-d6d4f9a05dc5.png)
+
