@@ -15,7 +15,7 @@ This was the first sketch of our set up for our idea:
 ![bsaic_carl](https://user-images.githubusercontent.com/59817284/76691707-099a4500-660b-11ea-95ea-d6d4f9a05dc5.png)
 
 ## How it works:
-1)  The light sensors attached to the gondola are photo-resisters. They read how much light is striking the gondola at the time, then send the data as a anologue value to the attached arduino.
+1)  The light sensors attached to the gondola are photo-resistors. They read how much light is striking the gondola at the time, then send the data as a anologue value to the attached arduino.
 2)  The arduino then sends the anologue value (how much light is striking the gondola) to the attached computer. While the arduino does this, the arduino also tells the motor controller to continue to move the gondolla across its path. This allows the arduino to have light readings from multiple places. The Arduino sends both light on gondola, and position of gondola for the system to the attached computer.
 3)  The computer then records a light versus position graph. The computer finds the positional value for the highest amount of light, and then sends a command to the arduino.
 4)  The arduino then tells the motor controller to move the gondola to the position where the most light was recorded.
@@ -23,7 +23,7 @@ This was the first sketch of our set up for our idea:
 
 ### Things to note: 
 * The system reads position based on the amount of turns the stepper motor has done, so the system does not actually read where the gondola is. The code has to be modified so that the gondola has a certain max range of motion (length of the gondola wire). 
-* The photoresisters send a lower anologue value for more light. This is because they add voltage resistance to the system, which decreases the anologue value when more light is present.
+* The photoresistors send a lower anologue value for more light. This is because they add voltage resistance to the system, which decreases the anologue value when more light is present.
 
 
 # This is a Fritzing Schematic of the Hardware Hookup. 
@@ -43,9 +43,11 @@ This was assembled to hold up the gondola as if it were hung over a window. The 
 
 ## Pulleys and Gondola:
 ![0311201612](https://user-images.githubusercontent.com/59817284/76710844-f6997a80-66c7-11ea-94f6-b31370b46397.jpg)
+
 Our pulleys and gondola were designed using the Onshape 3d modeling software. The only requirement for the pulleys is that they need to put the gondola line under tension, and one pulley must be turned by the stepper motor. 
 ![0311201600d](https://user-images.githubusercontent.com/59817284/76710860-15980c80-66c8-11ea-8fd3-880cbb22020c.jpg)
 
+Also note that the gondola should be designed to carry the photo-resistors so that the amount of light can be read where the gondola is.
 
 
 
