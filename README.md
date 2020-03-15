@@ -32,9 +32,9 @@ Notice above that the AC wall outlet power to DC power for the stepper motor is 
 
 
 ## Building the Gondola Stand:
-!Materials:
+Materials:
 * 1 48" 2X4 
 * 4 18" 2X4
 * Screws
 
-!This was assembled to hold up the gondola as if it were hung over a window. The top bar of the stand would represent the top of the window if someone were to use this for their house plant. The pulleys were fastened to the two upper corners. These were designed in OnShape and printed along with the mounting pieces. The string was then pulled across and wrapped around the pulleys, holding up the gondola. The gondola was designed in Tinkercad to hold the pot and dangle from the string. 
+This was assembled to hold up the gondola as if it were hung over a window. The top bar of the stand would represent the top of the window if someone were to use this for their house plant. The pulleys were fastened to the two upper corners. These were designed in OnShape and printed along with the mounting pieces. The string was then pulled across and wrapped around the pulleys, holding up the gondola. The gondola was designed in Tinkercad to hold the pot and dangle from the string. 
