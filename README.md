@@ -27,6 +27,5 @@ This was the first sketch of our set up for our idea:
 
 
 # This is a Fritzing Schematic of the Hardware Hookup. 
-![Capturefritz](https://user-images.githubusercontent.com/59817284/76695168-43824000-6639-11ea-9026-114934e211b6.PNG)
-
+![_untitledimage](https://user-images.githubusercontent.com/59817284/76695519-bee5f080-663d-11ea-8ce2-75ae3b9318ef.png)
 Notice above that the AC wall outlet power to DC power for the stepper motor is not included in the Fritzing design. Neither is the computer usb to micro-usb for the arduino included in the Fritzing build. We also used a RedBoard instead of an Arduino Uno. The only difference in set-up between the Arduino Uno and the Redboard is the usb type C used for the computer to arduino connection instead of a micro-usb.
