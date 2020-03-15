@@ -26,3 +26,6 @@ This was the first sketch of our set up for our idea:
 * The photoresisters send a lower anologue value for more light. This is because they add voltage resistance to the system, which decreases the anologue value when more light is present.
 
 
+# This is a Fritzing Schematic of the Hardware Hookup. 
+![Capturefritz](https://user-images.githubusercontent.com/59817284/76695168-43824000-6639-11ea-9026-114934e211b6.PNG)
+Notice that the AC wall outlet power to DC power for the stepper motor, as well as the computer usb to micro-usb for the arduino are not included in the Fritzing build. We also used a RedBoard instead of an Arduino Uno. The only difference in set-up between these devices, is that a usb type C is used for the computer to arduino connection instead of a micro-usb.
