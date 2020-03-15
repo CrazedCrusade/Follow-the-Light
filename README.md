@@ -46,3 +46,35 @@ This was assembled to hold up the gondola as if it were hung over a window. The 
 Our pulleys and gondola were designed using the Onshape 3d modeling software. The only requirement for the pulleys is that they need to put the gondola line under tension, and one pulley must be turned by the stepper motor. 
 ![0311201600d](https://user-images.githubusercontent.com/59817284/76710860-15980c80-66c8-11ea-8fd3-880cbb22020c.jpg)
 
+
+
+
+
+
+
+
+
+
+
+
+MIT License
+
+Copyright (c) 2020 Newton's Busties
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
