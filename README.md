@@ -37,4 +37,6 @@ Materials:
 * 4 18" 2X4
 * Screws
 
+![gondola](https://user-images.githubusercontent.com/62195067/76709708-23489480-66be-11ea-8cb3-5612e4e13648.jpg)
+
 This was assembled to hold up the gondola as if it were hung over a window. The top bar of the stand would represent the top of the window if someone were to use this for their house plant. The pulleys were fastened to the two upper corners. These were designed in OnShape and printed along with the mounting pieces. The string was then pulled across and wrapped around the pulleys, holding up the gondola. The gondola was designed in Tinkercad to hold the pot and dangle from the string. 
