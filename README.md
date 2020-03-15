@@ -2,7 +2,7 @@ For More Project Documentation (parts, prices, licenses, and hookup), view the f
 
 Our Group name is Newton's Busties. We are comprised of four members: Christopher, Harrison, David, and Elizabeth. This was our ENGR114 Project in Prof. Kazarinoff's class at PCC. 
 
-![0311201604](https://user-images.githubusercontent.com/59817284/76710668-a968d900-66c6-11ea-8f7e-7eb05165aac7.jpg)
+![0311201600d](https://user-images.githubusercontent.com/59817284/76693640-dd3ff200-6625-11ea-91cb-a7ed8ea43dd8.jpg)
 
 # Follow-the-Light
 Sets up an apparatus that keeps your plant in maximum sunlight by moving your plant via a gondola to the spot in your windowsill with the most sunlight. Also generates a graph with python code to show where the plant moved.
@@ -40,3 +40,9 @@ Materials:
 ![gondola](https://user-images.githubusercontent.com/62195067/76709708-23489480-66be-11ea-8cb3-5612e4e13648.jpg)
 
 This was assembled to hold up the gondola as if it were hung over a window. The top bar of the stand would represent the top of the window if someone were to use this for their house plant. The pulleys were fastened to the two upper corners. These were designed in OnShape and printed along with the mounting pieces. The string was then pulled across and wrapped around the pulleys, holding up the gondola. The gondola was designed in Tinkercad to hold the pot and dangle from the string. 
+
+## Pulleys and Gondola:
+![0311201612](https://user-images.githubusercontent.com/59817284/76710844-f6997a80-66c7-11ea-94f6-b31370b46397.jpg)
+Our pulleys and gondola were designed using the Onshape 3d modeling software. The only requirement for the pulleys is that they need to put the gondola line under tension, and one pulley must be turned by the stepper motor. 
+![0311201600d](https://user-images.githubusercontent.com/59817284/76710860-15980c80-66c8-11ea-8fd3-880cbb22020c.jpg)
+
