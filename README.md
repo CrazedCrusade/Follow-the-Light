@@ -1,3 +1,5 @@
+For Project Documentation, view the following link: https://docs.google.com/document/d/1IHjDpGhEGYvSrTsLehtoSzCsxU5Pvv6ZDAVGaKjEqGU/edit#
+
 # Follow-the-Light
 Sets up an apparatus that keeps your plant in maximum sunlight by moving your plant to the spot in your windowsill with the most sunlight. Also generates a graph with python code to show where the plant moved.
 
