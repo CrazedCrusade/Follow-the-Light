@@ -44,7 +44,7 @@ This was assembled to hold up the gondola as if it were hung over a window. The 
 ## Pulleys and Gondola:
 ![0311201612](https://user-images.githubusercontent.com/59817284/76710844-f6997a80-66c7-11ea-94f6-b31370b46397.jpg)
 
-* Our pulleys and gondola were designed using the Onshape 3d modeling software. The only requirement for the pulleys is that they need to put the gondola line under tension, and one pulley must be turned by the stepper motor. 
+* Our pulleys and gondola were designed using the Onshape 3d modeling software. The only requirement for the pulleys is that they need to put the gondola line under tension, and one pulley must be turned by the stepper motor. The 3d printable STL pulley models are in located in the CARL STL folder at the top. 
 ![0311201600d](https://user-images.githubusercontent.com/59817284/76710860-15980c80-66c8-11ea-8fd3-880cbb22020c.jpg)
 
 * Also note that the gondola should be designed to carry the photo-resistors so that the amount of light can be read where the gondola is.
