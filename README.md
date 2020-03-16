@@ -61,8 +61,8 @@ We already created the code, so all you have to do is run it.
 7) Follow the instructions in the code opened in the Arduino IDE.
 
 ## Results:
-Youtube link to our first test:https://www.youtube.com/watch?v=yzFK8nZ47Xs
-As can be seen from the video, Aragorn (representing the plant gondola) would have the Light Sensing Apparatus attached to him (What the lighter was lit over). Where-ever the Light Sensing Apparatus detects the most light, the gondola will return to that spot before re-starting its sweep. The code ideally will continuously perform sweeps every few minutes to place the plant (represented by Aragorn) where the most light is present. In this video, we set the code to perform an immediate sweep after it finds the position with the most light.
+Youtube link to our Demonstration:https://www.youtube.com/watch?v=XWv6A3MjD5k
+Our final product now currently sweeps whenever the photoresistors detect a change in light.  
 
 ## License
 MIT License
