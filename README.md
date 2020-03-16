@@ -17,10 +17,11 @@ This was the first sketch of our set up for our idea:
 
 ## How it works:
 1)  The light sensors attached to the gondola are photo-resistors. They read how much light is striking the gondola at the time, then send the data as a anologue value to the attached arduino.
-2)  The arduino then sends the anologue value (how much light is striking the gondola) to the attached computer. While the arduino does this, the arduino also tells the motor controller to continue to move the gondolla across its path. This allows the arduino to have light readings from multiple places. The Arduino sends both light on gondola, and position of gondola for the system to the attached computer.
-3)  The computer then records a light versus position graph. The computer finds the positional value for the highest amount of light, and then sends a command to the arduino.
+2)  The arduino then sends the anologue value (how much light is striking the gondola) to the attached computer. While the arduino does this, the arduino also tells the motor controller to continue to move the gondolla across its path. This allows the arduino to have light readings from multiple places. The Arduino sends both analog value for light on gondola, and position of gondola for the system to the attached computer.
+3)  The computer finds the positional value for the highest amount of light, and then sends a command to the arduino.
 4)  The arduino then tells the motor controller to move the gondola to the position where the most light was recorded.
-5)  At a set amount of time later, the process repeats so that maximum sunlight for the plant in the gondola is ensured.
+5)a) At a set amount of time later, the process repeats so that maximum sunlight for the plant in the gondola is ensured.
+5)b) The gondola also moves from side to side until light is even across both photo-resistors.
 
 ### Things to note: 
 * The system reads position based on the amount of turns the stepper motor has done, so the system does not actually read where the gondola is. The code has to be modified so that the gondola has a certain max range of motion (length of the gondola wire). 
@@ -44,7 +45,7 @@ Materials:
 This was assembled to hold up the gondola as if it were hung over a window. The top bar of the stand would represent the top of the window if someone were to use this for their house plant. The pulleys were fastened to the two upper corners. These were designed in OnShape and printed along with the mounting pieces. The string was then pulled across and wrapped around the pulleys, holding up the gondola. The gondola was designed in Tinkercad to hold the pot and dangle from the string. 
 
 ## Pulleys and Gondola:
-![0311201612](https://user-images.githubusercontent.com/59817284/76710844-f6997a80-66c7-11ea-94f6-b31370b46397.jpg)
+![WIN_20200314_18_32_08_Pro](https://user-images.githubusercontent.com/59817284/76718967-8d306080-66f5-11ea-98d2-221927769a40.jpg)
 
 * Our pulleys and gondola were designed using the Onshape 3d modeling software. The only requirement for the pulleys is that they need to put the gondola line under tension, and one pulley must be turned by the stepper motor. The 3d printable STL pulley models are in located in the CARL STL folder at the top. 
 ![0311201600d](https://user-images.githubusercontent.com/59817284/76710860-15980c80-66c8-11ea-8fd3-880cbb22020c.jpg)
@@ -63,6 +64,8 @@ We already created the code, so all you have to do is run it.
 ## Results:
 Youtube link to our Demonstration:https://www.youtube.com/watch?v=XWv6A3MjD5k
 Our final product now currently sweeps whenever the photoresistors detect a change in light.  
+
+What you could add is a light versus position graph that stores the analog values to show which places the gondola recieved the most light.
 
 ## License
 MIT License
