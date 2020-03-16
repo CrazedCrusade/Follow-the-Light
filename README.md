@@ -50,14 +50,15 @@ This was assembled to hold up the gondola as if it were hung over a window. The 
 ![0311201600d](https://user-images.githubusercontent.com/59817284/76710860-15980c80-66c8-11ea-8fd3-880cbb22020c.jpg)
 
 * Also note that the gondola should be designed to carry the photo-resistors so that the amount of light can be read where the gondola is.
-##
-
-
-
-
-
-
-
+## Running the Code:
+We already created the code, so all you have to do is run it. 
+1) Download the *[NewtonsBust.zip](https://github.com/CrazedCrusade/Follow-the-Light/files/4335050/NewtonsBust.zip)*
+2) Find the downloaded file, right click, and then click "extract all." Extract it to the default location your PC chooses.
+3) Open the Arduino IDE (You can get it online for free).
+4) Go to File.
+5) Click Open.
+6) Open the extracted *NewtonsBust* folder. Open Arduino_Firmata_Stepper.
+7) Follow the instructions in the code opened in the Arduino IDE.
 
 
 ## License
