@@ -9,7 +9,7 @@ Our Group name is Newton's Busties. We are comprised of four members: Christophe
 Sets up an apparatus that keeps your plant in maximum sunlight by moving your plant via a gondola to the spot in your windowsill with the most sunlight. Also generates a graph with python code to show where the plant moved.
 
 
-## In the *[NewtonsBust.zip](https://github.com/CrazedCrusade/Follow-the-Light/files/4335050/NewtonsBust.zip)* file is the needed .ino arduino code files for running the stepper motor, and the multiple .py files for running the python code, generating the graphs, and controlling the arduino:
+## In the *[NewtonsBust.zip](https://github.com/CrazedCrusade/Follow-the-Light/files/4335050/NewtonsBust.zip)* file is the needed .ino arduino code files for running the stepper motor, and the multiple .py files for running the python code, generating the graphs, and controlling the arduino. In this file are the details for set-up:
 
 ## Basic Design
 This was the first sketch of our set up for our idea:
