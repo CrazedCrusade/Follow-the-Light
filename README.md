@@ -3,7 +3,7 @@ https://docs.google.com/document/d/1IHjDpGhEGYvSrTsLehtoSzCsxU5Pvv6ZDAVGaKjEqGU/
 
 Our Group name is Newton's Busties. We are comprised of four members: Christopher, Harrison, David, and Elizabeth. This was our ENGR114 Project in Prof. Kazarinoff's class at PCC. 
 
-![0311201600](https://user-images.githubusercontent.com/59817284/76711534-319eac80-66ce-11ea-826c-12ebb7d1c126.jpg)
+![0311201604](https://user-images.githubusercontent.com/59817284/76715404-7f74de00-66e9-11ea-9abf-178ec6afeca6.jpg)
 
 # Follow-the-Light
 Sets up an apparatus that keeps your plant in maximum sunlight by moving your plant via a gondola to the spot in your windowsill with the most sunlight. Also generates a graph with python code to show where the plant moved.
