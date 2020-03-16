@@ -1,4 +1,4 @@
-# For More Project Documentation (parts, prices, licenses, and hookup), view the following link: https://docs.google.com/document/d/1IHjDpGhEGYvSrTsLehtoSzCsxU5Pvv6ZDAVGaKjEqGU/edit#
+# For More Project Documentation (parts, prices, licenses, and hookup), view the following link: https://docs.google.com/document/d/1IHjDpGhEGYvSrTsLehtoSzCsxU5Pvv6ZDAVGaKjEqGU/edit# ENJOY
 
 Our Group name is Newton's Busties. We are comprised of four members: Christopher, Harrison, David, and Elizabeth. This was our ENGR114 Project in Prof. Kazarinoff's class at PCC. 
 
